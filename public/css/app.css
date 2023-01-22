@@ -1,0 +1,19 @@
+@charset 'UTF-8';
+
+*{
+ 	font-family: 'NanumGothic', sans-serif;
+}
+
+a:link{
+	color:#000;
+	text-decoration:none;
+}
+a:visited{
+	color:#000;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#000;
+	text-decoration:none;
+}
